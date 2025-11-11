@@ -6,6 +6,15 @@ In the field of Human-Computer Interaction (HCI), particularly in the burgeoning
 
 Journey Replay provides a robust platform to **monitor, replay, and measure human behavior** from recorded sessions. It allows researchers and developers to visually step back into a user's session, to see what they saw, and to analyze their movements and interactions. This ability to replay and examine user behavior is crucial for evaluating key metrics like **cognitive load, user recall, spatial search patterns, and overall user experience** in complex, real-world settings.
 
+
+
+new one:
+In the field of Human-Computer Interaction (HCI), particularly in the burgeoning and complex domain of wide-area outdoor Mixed Reality (MR), understanding why a user makes a certain decision is a critical research challenge. It is no longer sufficient to just log what a user did—for instance, noting timestamps, GPS coordinates, or simple button presses. These quantitative logs lack the qualitative context of the user's environment and perception. To truly understand their experience, we must be able to examine the full context of their actions, their perceptions, and their environment. This software is built to bridge that exact gap, moving from simple data collection to true behavioral understanding.
+
+Journey Replay provides a robust platform to monitor, replay, measure, and deeply analyze human behavior from comprehensive recorded sessions. It moves beyond simple data logs and allows researchers and developers to visually and spatially step back into a user's session. You can see precisely what they saw (their first-person point-of-view), where they were looking (eye-gaze), and how they moved through the world. This ability to reconstruct and examine the entire decision-making process is crucial for evaluating key and often elusive metrics. These include cognitive load, situational awareness, user recall of environmental information, spatial search patterns, and the holistic overall user experience in dynamic, real-world settings that are otherwise impossible to replicate in a lab.
+
+
+
 ## 🎥 Demo Video
 
 You can watch a full demo of the project here:
