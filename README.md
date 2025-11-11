@@ -128,3 +128,15 @@ By replaying this data *within* an accurate digital twin, you can see exactly wh
 
 
 ## 🧩 Citaion 
+
+![Project file structure](readme_fig/logo.png)
+
+
+![Project file structure](https://i.imgur.com/NpGVotVqMO.png)
+
+<img
+  src="1_1.png?raw=true"
+  alt="3D model from Unity Scene."
+  width="880"
+  height="450"
+/>
