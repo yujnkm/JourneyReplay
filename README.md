@@ -129,8 +129,7 @@ By replaying this data *within* an accurate digital twin, you can see exactly wh
 
 ## 🧩 Citaion 
 
-![Project file structure](readme_fig/logo.png)
-
+![alt text](readme_fig/logo.png)
 
 ![Project file structure](https://i.imgur.com/NpGVotVqMO.png)
 
